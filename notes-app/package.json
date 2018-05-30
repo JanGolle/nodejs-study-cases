@@ -1,0 +1,13 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "simple notes app",
+  "main": "app.js",
+  "author": "Elijah Zakirov",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "yargs": "^11.0.0"
+  }
+}

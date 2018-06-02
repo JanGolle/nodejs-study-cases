@@ -1,0 +1,12 @@
+{
+  "name": "web-server-app",
+  "version": "1.0.0",
+  "description": "Express web-server app",
+  "main": "index.js",
+  "author": "Elijah Zakirov",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "hbs": "^4.0.1"
+  }
+}
